@@ -71,6 +71,18 @@
 > Если хотите внести вклад в ***Front-End Checklist App***, прочтите [README_APP file](https://github.com/thedaviddias/Front-End-Checklist/blob/master/README_APP.md).
 
 ---
+## Head
+
+> **Примечание:** Можно посмотреть [список всего](https://github.com/joshbuchea/HEAD), что может быть в `<head>` HTML документа.
+
+### Мета-теги
+
+* [ ] **Doctype:** ![High][high_img] Doctype относится к HTML5 и находится в самом верху HTML страниц.
+
+```html
+<!doctype html> <!-- HTML5 -->
+```
+---
 
 ## Head
 

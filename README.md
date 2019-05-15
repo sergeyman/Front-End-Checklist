@@ -43,6 +43,8 @@
 
 ## Содержание
 
+1. **[.htaccess](#.htaccess)**
+1. **[Start frameworks](#start-fworks)**
 1. **[Head](#head)**
 2. **[HTML](#html)**
 3. **[Web-шрифты](#web-шрифты)**
@@ -71,7 +73,7 @@
 > Если хотите внести вклад в ***Front-End Checklist App***, прочтите [README_APP file](https://github.com/thedaviddias/Front-End-Checklist/blob/master/README_APP.md).
 
 ---
-## Head
+## .htaccess (ASV)
 
 > **Примечание:** Можно посмотреть [список всего](https://github.com/joshbuchea/HEAD), что может быть в `<head>` HTML документа.
 
@@ -83,6 +85,17 @@
 <!doctype html> <!-- HTML5 -->
 ```
 ---
+## Start frameworks (HTML5-boilerplate, ...) (ASV)
+
+> **Примечание:** Можно посмотреть [список всего](https://github.com/joshbuchea/HEAD), что может быть в `<head>` HTML документа.
+
+### Мета-теги
+
+* [ ] **Doctype:** ![High][high_img] Doctype относится к HTML5 и находится в самом верху HTML страниц.
+
+```html
+<!doctype html> <!-- HTML5 -->
+```
 
 ## Head
 

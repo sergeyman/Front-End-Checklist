@@ -161,6 +161,13 @@
 > * 📖 [Favicons, Touch Icons, Tile Icons, etc. Which Do You Need? - CSS Tricks](https://css-tricks.com/favicon-quiz/)
 > * 📖 [PNG favicons - caniuse](https://caniuse.com/#feat=link-icon-png)
 
+* [] **Icons** (ASV)
+```html
+<!-- Font Awesom CDN (?) -->
+<link href="http://www.uomz.ru/themes/uomz/assets/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+```
+> * 📖 [Font Awesome Site](https://fontawesome.com/)
+
 * [ ] **Apple Web App Meta:** ![Low][low_img] Заданы мета-теги для Apple
 
 ```html
